@@ -13,7 +13,7 @@ import java.security.NoSuchAlgorithmException;
  */
 public class SecurityMD {
 
-    private static String src = "securityMD 91jr";
+    private static String src = "securityMD jr";
 
     public static void main(String[] args){
 

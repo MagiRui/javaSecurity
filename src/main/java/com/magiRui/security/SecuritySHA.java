@@ -12,7 +12,7 @@ import java.security.NoSuchAlgorithmException;
  */
 public class SecuritySHA {
 
-    private static String src = "securityMD 91jr";
+    private static String src = "securityMD jr";
 
     public static void main(String[] args){
 

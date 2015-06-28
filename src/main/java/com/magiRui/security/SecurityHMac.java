@@ -15,7 +15,7 @@ import java.security.NoSuchAlgorithmException;
  */
 public class SecurityHMac {
 
-    private static final String src = "message degist 91jr";
+    private static final String src = "message degist jr";
 
     public static void main(String[] args){
 
